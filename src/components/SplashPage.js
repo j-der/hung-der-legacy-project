@@ -5,7 +5,9 @@ const SplashPage = (props) => {
   return (
     <div className="container">
       <div className="splash-image">
-        <div> yo yo yo<br/><br/><br/><br/><br/><br/></div>
+        <div>
+        <h1 className="splash-text">Hung Der</h1>
+        </div>
 
       </div>
     </div>
